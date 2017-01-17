@@ -1,0 +1,8 @@
+# don't save most Package Control files; they change a lot
+Package Control.*
+# but do save them if they end in .sublime-settings
+!*.sublime-settings
+
+# don't save project or workspace files
+*.sublime-project
+*.sublime-workspace

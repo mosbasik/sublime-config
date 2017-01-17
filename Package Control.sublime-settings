@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Ansible",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"Table Editor",
+		"Theme - SoDaReloaded",
+		"TodoReview",
+		"TrailingSpaces"
+	]
+}
