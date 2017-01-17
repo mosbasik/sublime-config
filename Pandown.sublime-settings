@@ -1,0 +1,5 @@
+{
+    // By default, Pandoc is installed in /usr/local/bin.
+    // If this is different on your setup, modify this setting.
+    "install_path": "C:\\Users\\S173817\\AppData\\Local\\Pandoc\\pandoc.exe"
+}

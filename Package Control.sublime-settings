@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Ansible",
+		"Crontab Syntax",
+		"Git",
+		"Git Commit Message Syntax",
+		"GitCommitMsg",
+		"GitGutter",
+		"INI",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pandown",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-shellcheck",
+		"TrailingSpaces",
+		"Wrap Plus"
+	]
+}
