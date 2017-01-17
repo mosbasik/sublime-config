@@ -5,8 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"Ansible",
+		"ApacheConf.tmLanguage",
+		"AutoWrap",
 		"Babel",
+		"DocBlockr",
+		"DocBlockr_Python",
 		"Dockerfile Syntax Highlighting",
+		"Emmet",
 		"Generic Config",
 		"Git",
 		"Git Commit Message Syntax",
@@ -15,13 +22,20 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
+		"Parinfer",
 		"Pretty JSON",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-pep8",
 		"SublimeLinter-shellcheck",
-		"TrailingSpaces"
+		"SublimeREPL",
+		"Table Editor",
+		"Theme - SoDaReloaded",
+		"TodoReview",
+		"TrailingSpaces",
+		"Wrap Plus"
 	]
 }
