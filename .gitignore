@@ -6,3 +6,6 @@ Package Control.*
 # don't save project or workspace files
 *.sublime-project
 *.sublime-workspace
+
+# don't save dot folders
+.*/
