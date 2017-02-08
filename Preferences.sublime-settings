@@ -11,7 +11,9 @@
 		"__pycache__"
 	],
 	"font_size": 10,
-	"ignored_packages": [],
+	"ignored_packages":
+	[
+	],
 	"indent_to_bracket": true,
 	"rulers":
 	[
