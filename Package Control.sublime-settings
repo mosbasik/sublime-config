@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Ansible",
 		"ApacheConf.tmLanguage",
 		"AutoWrap",
@@ -14,10 +15,12 @@
 		"DocBlockr_Python",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
+		"Emoji",
 		"Generic Config",
 		"Git",
 		"Git Commit Message Syntax",
 		"GitGutter",
+		"Gutter Color",
 		"INI",
 		"InsertDate",
 		"Markdown Preview",
@@ -26,6 +29,7 @@
 		"Parinfer",
 		"PowerShell",
 		"Pretty JSON",
+		"RemoteCollab",
 		"Sass",
 		"ShellScriptImproved",
 		"SideBarEnhancements",
@@ -40,6 +44,7 @@
 		"Theme - SoDaReloaded",
 		"TodoReview",
 		"TrailingSpaces",
+		"Vuejs Complete Package",
 		"Wrap Plus"
 	]
 }

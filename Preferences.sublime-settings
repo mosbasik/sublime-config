@@ -13,6 +13,7 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"Generic Config"
 	],
 	"indent_to_bracket": true,
 	"rulers":
