@@ -11,7 +11,7 @@
 	[
 		"__pycache__"
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"http_proxy": "http://swmed.proxy.swmed.org:3128",
 	"https_proxy": "https://swmed.proxy.swmed.org:3128",
 	"ignored_packages":
