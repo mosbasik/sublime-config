@@ -5,3 +5,6 @@ Package Control.*
 
 # don't save workspace file
 *.sublime-workspace
+
+# don't save SublimeREPL history
+.SublimeREPLHistory
