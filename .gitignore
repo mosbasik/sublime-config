@@ -3,6 +3,8 @@ Package Control.*
 # but do save them if they end in .sublime-settings
 !*.sublime-settings
 
-# don't save project or workspace files
-*.sublime-project
+# don't save workspace file
 *.sublime-workspace
+
+# don't save SublimeREPL history
+.SublimeREPLHistory
