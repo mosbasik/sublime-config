@@ -12,6 +12,7 @@
 	[
 		"__pycache__"
 	],
+	"fade_fold_buttons": false,
 	"font_size": 10,
 	"ignored_packages":
 	[
