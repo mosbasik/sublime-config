@@ -8,3 +8,6 @@ Package Control.*
 
 # don't save SublimeREPL history
 .SublimeREPLHistory
+
+# don't save recent projects
+Projects
